@@ -102,7 +102,7 @@ Some OpenNebula components need ruby libraries. Some of these libraries are inte
 -  **sqlite3**: sqlite3 development library
 -  **mysql**: mysql client development library
 -  **curb**: curl development library
--  **nokogiri**: expat development librarie
+-  **nokogiri**: expat development library
 -  **xmlparse**: libxml2 and libxslt development libraries
 
 You will also need ruby development package to be able to compile these gems.
